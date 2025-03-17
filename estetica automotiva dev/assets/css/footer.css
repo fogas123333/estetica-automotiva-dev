@@ -14,14 +14,14 @@ footer nav li{
     margin: 1rem 0;
 }
 footer nav a{
-    color: var(--secondary);
+    color: #000000;
     text-decoration: none;
 }
 footer nav a:hover{
     text-decoration: underline;
 }
 footer .bar{
-    background-color: var(--foreground);
+    background-color: #000000;
     text-align: center;
     padding: 1rem 3rem;
     margin-top: 3rem;

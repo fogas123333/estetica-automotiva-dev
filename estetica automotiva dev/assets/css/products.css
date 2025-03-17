@@ -42,7 +42,11 @@
     letter-spacing: -0.1rem;
     font-size: 2.5rem;
     margin-bottom: 1rem;
+    color: #000000;
 }
+    .products .product .description{
+        color: #000000;
+    }
 .products .product .link{
     color: var(--secondary);
     margin-top: 2rem;

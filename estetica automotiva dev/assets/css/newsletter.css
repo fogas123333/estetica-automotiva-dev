@@ -11,9 +11,10 @@
     letter-spacing: -0.1rem;
     font-size: 4.5rem;
     margin-bottom: 2rem;
+    color: #000000;
 }
 .newsletter h2 span{
-    color: var(--secondary);
+    color: #ffffff;
 }
 .newsletter form{
     margin-top: 3rem;
@@ -26,8 +27,8 @@
     padding: 2rem;
     font-size: 2rem;
     border-radius: 15px;
-    border: 1px solid var(--secondary);
-    background-color: var(--hero-background);
+    border: 1px solid #000000;
+    background-color: #ffffff;
     outline: none;
 }
 @media(width>600px){

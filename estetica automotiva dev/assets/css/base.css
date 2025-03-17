@@ -2,10 +2,10 @@
 
 :root{
     --background:#ffffff;
-    --foreground:#ebf4ff;
+    --foreground:#fbe974;
     --thirdground:#ffc600;
     --primary:#ffffff;
-    --secondary:#e0e01b;
+    --secondary:#d4d433;
     --secondary-foreground:#ffffff;
     --hero-background:#f3f3f3;
 }
@@ -34,8 +34,8 @@ body{
 }
 .button, .button2{
     display: inline-block;
-    background-color: var(--secondary);
-    border: 2px solid var(--secondary);
+    background-color: #000000;
+    border: 2px solid #ffffff;
     color: var(--secondary-foreground);
     padding: 2rem 4rem;
     font-size: 2rem;

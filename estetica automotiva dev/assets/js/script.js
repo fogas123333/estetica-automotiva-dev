@@ -21,15 +21,15 @@ menuOpener.addEventListener('click', ()=>{
 //TESTEMONIALS
 //vetor de objetos contendo as frases e os icones
 let testemonials = [
-    {quote:'"Mais do que nunca, os animais '+
+    {quote:'"Mais do que nunca, os clientes '+
      'são tratados como membros da familia"', origin:'cbs.svg' }, 
-    {quote:'"DogDev é um serviço de entrega direto ao '+ 
-        'consumidor, preparado na hora com ingredientes 100% '+
-        'reais. Ingredientes que humanos reconheceriam"',
+    {quote:'"BM é um serviço de lavagem direto ao '+ 
+        'consumidor, preparado na hora com materiais 100% '+
+        'reais."',
         origin:'forbes.svg' }, 
-    {quote:'"DogDev usa ingredientes simples e limpos em '+ 
+    {quote:'"Bm estética usa utencilios simples e limpos em '+ 
         'seus produtos."', origin:'fox.svg' }, 
-    {quote:'"Vejo você DogDev como um verdadeiro herói"',
+    {quote:'"Vejo você no BM como um verdadeiro consumidor"',
         origin:'sharktank.svg' }
 ];
 //captura os elementos do html usando queryselector
